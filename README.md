@@ -18,7 +18,7 @@
     
 - 🔭 I’m currently working on **Mobile App Clean Architecture**
 
-- 🌱 I’m currently learning **KMM (Kotlin Multiplatform)**
+- 🌱 I’m currently learning **KMP (Kotlin Multiplatform)**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/vibhanshu007?tab=repositories">My Repositories</a>
 
