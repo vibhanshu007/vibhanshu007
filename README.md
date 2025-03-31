@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/vibhanshu007) -->
 <h1 align="center">Hi 👋, I'm Vibhanshu Shuka!</h1>
 <h3 align="center">I'm a passionate software developer with 9 years of experience in crafting Native Android and
     Cross-Plateform (Flutter & React Native) applications.</h3>
   
-<!-- <p align="left"> <img
+<p align="left"> <img
         src="https://komarev.com/ghpvc/?username=vibhanshu007&label=Profile%20views&color=0e75b6&style=flat"
-        alt="vibhanshu007" /> </p> -->
+        alt="vibhanshu007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=vibhanshu007" alt="vibhanshu007" /></a> </p>
